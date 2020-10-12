@@ -4,12 +4,12 @@
 
 ## What I Love
 
-* C++ 1z (2a? I quit)
-* Concurrency
-* Programing languages
-* Formal Verification
-* Reverse Engineering
+* 💩 C++ 1z (2a? I quit)
+* 🔌 Concurrency
+* 🐫 Programing languages
+* 🐓 Formal Verification
+* 🪓 Reverse Engineering
 
 ## Sicial Media
-* Telegram: @HappyEcho
-* Instagram: @timzheng_hz
+* Telegram: [@HappyEcho](https://t.me/HappyEcho)
+* Instagram: [@timzheng_hz](https://www.instagram.com/timzheng_hz/)
