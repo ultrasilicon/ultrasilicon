@@ -10,6 +10,6 @@
 * 🐓 Formal Verification
 * 🪓 Reverse Engineering
 
-## Sicial Media
+## Social Media
 * Telegram: [@HappyEcho](https://t.me/HappyEcho)
 * Instagram: [@timzheng_hz](https://www.instagram.com/timzheng_hz/)
