@@ -5,7 +5,7 @@
 ## What I Love
 
 * 🎓 Topics: Concurrency, Programing Languages, Network Protocols
-* 🧋 Hobbies: Photography, Industrial Design, Manual Metalworking, Collecting ARM Boards
+* 🧋 Hobbies: Photography, Industrial Design, Metal Machining, Carpentry, Collecting ARM Boards
 
 * 🐫 Languages: Rust, C++, Erlang
 * 🔧 Tools: Qt, Flutter, Raspberry Pi
